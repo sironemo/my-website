@@ -1,0 +1,27 @@
+{
+  "id": "./单词本.html",
+  "name": "单词本",
+  "short_name": "单词本",
+  "description": "随时复习和管理你的单词",
+  "lang": "zh-CN",
+  "start_url": "./单词本.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0f2f7",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
